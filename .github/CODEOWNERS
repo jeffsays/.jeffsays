@@ -1,0 +1,5 @@
+# CODEOWNERS will automatically request reviews from listed owners on PRs that include files
+# below in their modifications.
+# Order is important; the last matching pattern takes the most precedence.
+
+* @jeffsays
